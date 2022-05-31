@@ -1,0 +1,14 @@
+div {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+.headings {
+    background-color: aqua;
+    font-weight: bold;
+    text-align: left;
+}
